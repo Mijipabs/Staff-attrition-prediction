@@ -2,7 +2,7 @@
 
 Predicting employee attrition using the IBM HR Analytics dataset — hypothesis-driven EDA, a three-model comparison, and a deployed Streamlit app for real-time risk prediction.
 
-🔗 **Live app:** [staff-attrition-olamiji.streamlit.app](https://staff-attrition-olamiji.streamlit.app)
+🔗 **Live app:** [staff-attrition-olamiji.streamlit.app](https://staff-attrition-predictor.streamlit.app/)
 📓 **Full analysis notebook:** [code.ipynb](./code.ipynb)
 
 ---
